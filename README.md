@@ -1,13 +1,3 @@
-   ██████╗██╗   ██╗██████╗ ███████╗██████╗  █████╗  ██╗███████╗██╗  ██╗
-  ██╔════╝╚██╗ ██╔╝██╔══██╗██╔════╝██╔══██╗██╔══██╗███║██╔════╝╚██╗██╔╝
-  ██║      ╚████╔╝ ██████╔╝█████╗  ██████╔╝███████║╚██║█████╗   ╚███╔╝ 
-  ██║       ╚██╔╝  ██╔══██╗██╔══╝  ██╔══██╗██╔══██║ ██║██╔══╝   ██╔██╗ 
-  ╚██████╗   ██║   ██████╔╝███████╗██║  ██║██║  ██║ ██║███████╗██╔╝ ██╗
-   ╚═════╝   ╚═╝   ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═╝╚══════╝╚═╝  ╚═╝
-
-                 [ CyberA1eX | Offensive Security Framework ]
-
-
 
 # 💫 About Me:
 Ethical hacker in training. Obsessed with privilege escalation and breaking things to understand how they work. Currently building a dashboard (Codex-Jinx) to wrangle notes, exploits, and recon logs—because sticky notes don’t scale. Learning Python scripting and sharpening my skills across Linux, Windows, and web targets. Tools of choice: Gobuster, Hydra, Hashcat, Metasploit, Python scripts—and too many others to fit in this bio. Living in the terminal. Learning by breaking
@@ -32,6 +22,14 @@ Ethical hacker in training. Obsessed with privilege escalation and breaking thin
 ![Systemd](https://img.shields.io/badge/Systemd-000000?style=for-the-badge&logo=systemd&logoColor=white)  
 
 
+   ██████╗██╗   ██╗██████╗ ███████╗██████╗  █████╗  ██╗███████╗██╗  ██╗
+  ██╔════╝╚██╗ ██╔╝██╔══██╗██╔════╝██╔══██╗██╔══██╗███║██╔════╝╚██╗██╔╝
+  ██║      ╚████╔╝ ██████╔╝█████╗  ██████╔╝███████║╚██║█████╗   ╚███╔╝ 
+  ██║       ╚██╔╝  ██╔══██╗██╔══╝  ██╔══██╗██╔══██║ ██║██╔══╝   ██╔██╗ 
+  ╚██████╗   ██║   ██████╔╝███████╗██║  ██║██║  ██║ ██║███████╗██╔╝ ██╗
+   ╚═════╝   ╚═╝   ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═╝╚══════╝╚═╝  ╚═╝
+
+                 [ CyberA1eX | Offensive Security Framework ]
 
 
 
