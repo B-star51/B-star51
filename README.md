@@ -22,17 +22,6 @@ Ethical hacker in training. Obsessed with privilege escalation and breaking thin
 ![Systemd](https://img.shields.io/badge/Systemd-000000?style=for-the-badge&logo=systemd&logoColor=white)  
 
 
-   ██████╗██╗   ██╗██████╗ ███████╗██████╗  █████╗  ██╗███████╗██╗  ██╗
-  ██╔════╝╚██╗ ██╔╝██╔══██╗██╔════╝██╔══██╗██╔══██╗███║██╔════╝╚██╗██╔╝
-  ██║      ╚████╔╝ ██████╔╝█████╗  ██████╔╝███████║╚██║█████╗   ╚███╔╝ 
-  ██║       ╚██╔╝  ██╔══██╗██╔══╝  ██╔══██╗██╔══██║ ██║██╔══╝   ██╔██╗ 
-  ╚██████╗   ██║   ██████╔╝███████╗██║  ██║██║  ██║ ██║███████╗██╔╝ ██╗
-   ╚═════╝   ╚═╝   ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═╝╚══════╝╚═╝  ╚═╝
-
-                 [ CyberA1eX | Offensive Security Framework ]
-
-
-
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=B-star51&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
