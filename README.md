@@ -29,7 +29,7 @@ I'm a penetration tester focused on **Active Directory exploitation**, **web app
 - 🧰 Currently building **Codex-Jinx** — a personal dashboard to wrangle recon notes, exploit logs, and assessment tracking (because sticky notes don't scale)
 - 📋 Produce **written pentest reports** with CVSS-scored findings and remediation — not just screenshots
 - 🎓 Trained across **TryHackMe · HackingHub · HackSmarter · WebSploit Labs · OWASP Juice Shop** and Omar Santos' *Art of Hacking* (26+ hrs, OSCP-aligned)
-- 📜 **CompTIA Security+ · Network+ · ISC2 CC · Cisco Ethical Hacker** → pushing toward **OSCP**
+- 📜 **CompTIA Security+ · Network+ · ISC2 CC · Cisco Ethical Hacker · TryHackMe Jr. Penetration Tester (PT1)** → pushing toward **OSCP**
 
 ---
 
